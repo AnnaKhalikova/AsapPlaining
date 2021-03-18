@@ -1,0 +1,41 @@
+D:\Alex\Programs\Программирование\РиПОД\Распределенная и параллельная обработка данных\My labs\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Alex\Programs\Программирование\РиПОД\Распределенная и параллельная обработка данных\My labs\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Alex\Programs\Программирование\РиПОД\Распределенная и параллельная обработка данных\My labs\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Alex\Programs\Программирование\РиПОД\Распределенная и параллельная обработка данных\My labs\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+D:\Alex\Programs\Программирование\РиПОД\Распределенная и параллельная обработка данных\My labs\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\Alex\Programs\Программирование\РиПОД\Распределенная и параллельная обработка данных\My labs\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\Alex\Programs\Программирование\РиПОД\Распределенная и параллельная обработка данных\My labs\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+D:\Alex\Programs\Программирование\РиПОД\Распределенная и параллельная обработка данных\My labs\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Alex\Programs\Программирование\РиПОД\Распределенная и параллельная обработка данных\My labs\Lab2\Lab2\obj\Debug\Lab2.pdb
+E:\Материалы для ФЗО РиПОД 2017\RiPOD Zubarev AA\Lab2\Lab2\bin\Debug\Lab2.exe.config
+E:\Материалы для ФЗО РиПОД 2017\RiPOD Zubarev AA\Lab2\Lab2\bin\Debug\Lab2.exe
+E:\Материалы для ФЗО РиПОД 2017\RiPOD Zubarev AA\Lab2\Lab2\bin\Debug\Lab2.pdb
+E:\Материалы для ФЗО РиПОД 2017\RiPOD Zubarev AA\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+E:\Материалы для ФЗО РиПОД 2017\RiPOD Zubarev AA\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+E:\Материалы для ФЗО РиПОД 2017\RiPOD Zubarev AA\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+E:\Материалы для ФЗО РиПОД 2017\RiPOD Zubarev AA\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+E:\Материалы для ФЗО РиПОД 2017\RiPOD Zubarev AA\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+E:\Материалы для ФЗО РиПОД 2017\RiPOD Zubarev AA\Lab2\Lab2\obj\Debug\Lab2.exe
+E:\Материалы для ФЗО РиПОД 2017\RiPOD Zubarev AA\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\Study\Study\6 semestr\DistributedAndParallelProccessingOfInformation\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Study\Study\6 semestr\DistributedAndParallelProccessingOfInformation\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Study\Study\6 semestr\DistributedAndParallelProccessingOfInformation\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\учеба\3 курс\РиПОД\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\учеба\3 курс\РиПОД\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\учеба\3 курс\РиПОД\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\учеба\3 курс\РиПОД\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\учеба\3 курс\РиПОД\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\учеба\3 курс\РиПОД\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+D:\учеба\3 курс\РиПОД\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\учеба\3 курс\РиПОД\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\учеба\3 курс\РиПОД\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\aikha\Downloads\UNIVERSITY\3 course\РиПОД\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\aikha\Downloads\UNIVERSITY\3 course\РиПОД\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\aikha\Downloads\UNIVERSITY\3 course\РиПОД\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\aikha\Downloads\UNIVERSITY\3 course\РиПОД\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\aikha\Downloads\UNIVERSITY\3 course\РиПОД\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\aikha\Downloads\UNIVERSITY\3 course\РиПОД\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\aikha\Downloads\UNIVERSITY\3 course\РиПОД\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\aikha\Downloads\UNIVERSITY\3 course\РиПОД\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\aikha\Downloads\UNIVERSITY\3 course\РиПОД\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\aikha\Downloads\UNIVERSITY\3 course\РиПОД\Lab2\Lab2\obj\Debug\Lab2.pdb
